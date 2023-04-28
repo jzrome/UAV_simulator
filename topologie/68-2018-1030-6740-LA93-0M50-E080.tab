@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+File "68-2018-1030-6740-LA93-0M50-E080.jpg"
+Type "RASTER"
+(1029750.00,6740270.00) (0,0) Label "Pt 1",
+(1035270.00,6740270.00) (6900,0) Label "Pt 2",
+(1035270.00,6734750.00) (6900,6900) Label "Pt 3",
+(1029750.00,6734750.00) (0,6900) Label "Pt 4"
+CoordSys Earth Projection 3, 33, "m", 3, 46.5, 44, 49, 700000, 6600000 Bounds (75000, 6000000) (1275000, 7200000)
+Units "m"
